@@ -57,7 +57,7 @@ npm start
 
 서버는 기본적으로 http://localhost:3000에서 실행됩니다.
 
-*## 🛠️ 사용된 기술
+## 🛠️ 사용된 기술
 - Node.js: 서버 사이드 개발에 사용
 - OpenAI API: ChatGPT-4를 사용하여 텍스트 생성
 - dotenv: 환경 변수 관리
